@@ -12,7 +12,7 @@
    ===================================================================== */
 
 const CONFIG = {
-  email: "",          // e.g. "you@gmail.com"  (empty = button hidden)
+  email: "prabhatjain200228@gmail.com",          // e.g. "you@gmail.com"  (empty = button hidden)
   instagram: "",      // e.g. "https://instagram.com/yourhandle"  (empty = button hidden)
   channel: "https://www.youtube.com/@bhatzaynshort",
 
