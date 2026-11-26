@@ -24,8 +24,8 @@ const CONFIG = {
 
   // LONG FORM (horizontal)
   long: [
-    {id:"MmaI9rps3w0", title:"Assignment 21"},
-    {id:"Jqk7eirTyvE", title:"Metro Media trail video 2"},
+    {id:"MmaI9rps3w0", title:"Documentary style"},
+    {id:"Jqk7eirTyvE", title:"Metro Media style"},
     {id:"QXMtWT4yKIY", title:"Podcast"},
     {id:"Ur1921ZbdpE", title:"IKEA"},
     {id:"sel30CBW_nk", title:"lemmino style"},
