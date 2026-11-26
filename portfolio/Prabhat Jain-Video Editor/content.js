@@ -18,8 +18,8 @@ const CONFIG = {
 
   // SHORT FORM (vertical). First 3 show in the fanned cards, the rest show below.
   short: [
-    {id:"_oRFoOu9eNk", title:"Yoga bar"},
-    {id:"QUAAXRarj3U", title:"Yoga bar assignment 19, correction"},
+    {id:"7JLihK78BBc", title:"Yoga bar"},
+    {id:"h50a4QUPdyk", title:"Rameshwaram"},
   ],
 
   // LONG FORM (horizontal)
