@@ -35,7 +35,7 @@ const CONFIG = {
   longComing: [],
 
   // MOTION: your own clips in assets/motion/ (a .jpg with the same name is used as the cover)
-  motion: ["assets/motion/motion-02.mp4", "assets/motion/motion-03.mp4"],
+  motion: ["assets/motion/motion-04.mp4", "assets/motion/motion-05.mp4", "assets/motion/motion-06.mp4", "assets/motion/motion-03.mp4"],
 
   // TOOLS: logo files live in assets/tools/ (file name without .png)
   tools: [
